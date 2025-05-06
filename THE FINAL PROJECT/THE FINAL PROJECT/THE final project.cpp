@@ -3,5 +3,7 @@ using namespace std;
 
 void main()
 {
-	fahioeheo
+	;dfohugiudhfiughiuldhfg
+		dfughiudfhgiuhuigdfg
+		fd;lsjgouisdfhjgouijsdfoig
 }
