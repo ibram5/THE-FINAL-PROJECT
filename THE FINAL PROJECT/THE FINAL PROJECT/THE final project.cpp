@@ -8,7 +8,7 @@ void main()
 	
 
 	cout << "OMK SUS";
-
+	cout << "wtf";
 
 // Omk SUS ea
 }
