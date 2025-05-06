@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\THE-FINAL-PROJECT\\THE FINAL PROJECT\\THE FINAL PROJECT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36187E8-4946-4A19-B401-23CD64C07733}|THE FINAL PROJECT.vcxproj|C:\\Users\\Lenovo\\Documents\\GitHub\\THE-FINAL-PROJECT\\THE FINAL PROJECT\\THE FINAL PROJECT\\THE final project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B36187E8-4946-4A19-B401-23CD64C07733}|THE FINAL PROJECT.vcxproj|solutionrelative:THE final project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "THE final project.cpp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\GitHub\\THE-FINAL-PROJECT\\THE FINAL PROJECT\\THE FINAL PROJECT\\THE final project.cpp",
+              "RelativeDocumentMoniker": "THE final project.cpp",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\GitHub\\THE-FINAL-PROJECT\\THE FINAL PROJECT\\THE FINAL PROJECT\\THE final project.cpp",
+              "RelativeToolTip": "THE final project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T12:42:35.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
